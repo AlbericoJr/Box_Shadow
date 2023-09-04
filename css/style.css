@@ -6,6 +6,10 @@
     font-family: "Verdana";
 }
 
+body{
+    margin-bottom: 100px;
+}
+
 h2{
     margin-bottom: 1.6rem;
     text-align: center;
