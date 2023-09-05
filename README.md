@@ -5,6 +5,6 @@ Você que muitas das vezes não sabe  como decora as regras para poder fazer aqu
 
 Este projeto foi realizado utilizando HTML, CSS e JavaScript.
 
-<a href="https://box-shadow-ten.vercel.app/">Box Shadow</a>
+<a href="https://box-shadow-ten.vercel.app/" target="_blank">Box Shadow</a>
 
 <img src="img/print.png">
